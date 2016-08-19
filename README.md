@@ -1,2 +1,0 @@
-# whatistest
-whatistest blog
